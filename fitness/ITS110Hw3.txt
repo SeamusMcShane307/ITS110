@@ -1,0 +1,20 @@
+1.) CSS stands for cascading style sheet and is a file that can be linked to other files in order to format their appearance.
+
+2.) An External style sheet is formatting that is contained outside of the file that it is altering.
+    An Internal style sheet is the inverse of the external in the sense that it is a self contained method of styling the file within which it resides.
+    The benefit of having an external style sheet is that it can be linked to multiple other files so that they all have a fairly uniform look.
+    While that is a great benefit when making a website that has an array of web pages it can cause them to lack individuality/ something that might look
+    nice on one of the linked webpage might not on another. The benefit to internal is that you can customize an individual page with affecting 
+    other web pages allowing for extremely unique page with no conflicts in styles, the downside is that it would take a long time and would need
+    to be typed out for every one of those individual pages.
+
+3.) A responsive design means that the webpage will change its aspects to accommodate the device that it is being loaded on.
+    Fluid layout allows the webpage to stretch and shrink in order to fit an appropriate amount of its aspects on screen.
+    Media queries allow the program to understand the size of the screen and then apply styles based on that size.
+    Flexible images means that images will stretch and shrink based on the proportions of the webpage.
+
+4.) Some of the best key practices for designing mobile viewports are the methods listed in the question above. 
+    Fluid layout, media queries, and flexible images are extremely important when creating a mobile viewport because no matter how good the 
+    contents of the webpage are, if they are not displayed properly it doesn't do them justice. So when it comes to importance I would
+    say laying the groundwork for an appealing website takes the highest precedence.
+
